@@ -1,2 +1,2 @@
 # decamike.github.io
-demo assets for NBS
+demo assets
